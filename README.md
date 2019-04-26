@@ -1,7 +1,7 @@
 # ex07 avl-ktchuluMyGuide
-## Alunos
-1 - André Oliveira
-2 - Henrrique Joaquim
+## Aluno
+* André Oliveira
+* Henrrique Joaquim
 **************
 ## Exercicio
 - [ ] 07-avl
